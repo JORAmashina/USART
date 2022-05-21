@@ -1,0 +1,18 @@
+!SESSION 2022-05-16 01:17:22.617 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-05-16 01:17:53.007
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-05-16 01:17:53.086
+!MESSAGE Log4j initialized with config file C:\school_prosoft\usart\USART\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-05-16 01:18:06.315
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-05-16 01:19:24.559
+!MESSAGE Indexed 'USART_RX_TX' (22 sources, 82 headers) in 3.86 sec: 5,644 declarations; 30,201 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0056%)
